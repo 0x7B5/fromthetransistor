@@ -1,5 +1,11 @@
 ## From the Transistor to the Web Browser
 
+This is a fork of GeoHot's proposed Transistor to Web Browser course. I'm going
+to attempt at going through it and try to flesh out the sections more by adding
+leading questions + resources. 
+
+*"It's about the journey, not the destination."* - GeoHot
+
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
 
 Now cleaned up and going to be software only. Closer to being real.
