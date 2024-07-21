@@ -1,10 +1,24 @@
 ## From the Transistor to the Web Browser
 
+## Introduction 
 This is a fork of GeoHot's proposed Transistor to Web Browser course. I'm going
 to attempt at going through it and try to flesh out the sections more by adding
 leading questions + resources. 
 
+Probably going to try to go through and get a barebones version of everything
+and then go back and try to make more mature versions of each section and get it
+running on hardware.
+
+Also, not going to do this in order. The projects OS and higher interest me more
+than the lower level stuff so I'll start there. 
+
 *"It's about the journey, not the destination."* - GeoHot
+
+
+## Good Forks 
+- https://github.com/techmexdev/fromthetransistor
+
+## Overview 
 
 Hiring is hard, a lot of modern CS education is really bad, and it's hard to find people who understand the modern computer stack from first principles.
 
